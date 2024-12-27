@@ -1,6 +1,4 @@
-
-![logo](https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?t=st=1735273465~exp=1735277065~hmac=c8f7eeb0e80a0fbe4e382a01d8a0523dc92353854fe16ec04d0c9b9d868d2925&w=1380)
-
+![logo](https://github.com/MithunGP-24/MithunGP-24/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Mithun G P</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
