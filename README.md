@@ -41,7 +41,19 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithungp-24&" alt="mithungp-24" /></p>
 
+<br>
 
+<h2>✍️ Random Dev Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h2>🌊 Flow with the waves, Bright vibes incoming! -Mithun</h2>
+  
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<div align="center">
+Made with 💙 by Mithun
+</div>
 
 
 
