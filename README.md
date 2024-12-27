@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Mithun G P</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mithun+G+P!;" />
+</h1>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF3dDhkaXd6MTc0Y2xhdmpqZmdjOHlxN3NhaHp0cXR4MW1jOG55ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.webp">
 
@@ -21,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithungp-24&label=Profile%20views&color=0e75b6&style=flat" alt="mithungp-24" /> </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mithun-g-p-116699309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mithun-g-p-116699309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
